@@ -1,10 +1,12 @@
+/* eslint-disable import/no-named-as-default */
 import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
+import { createRoot } from 'react-dom/client';
+import App from './components/App';
 
-ReactDOM.render(
+const apppend = document.querySelector('#root');
+const root = createRoot(apppend);
+root.render(
   <React.StrictMode>
     <App />
   </React.StrictMode>,
-  document.getElementById('root'),
 );
