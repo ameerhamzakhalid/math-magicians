@@ -1,0 +1,216 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render of the webpage Render Calculator component 1`] = `
+<div
+  className="calculator-container container"
+>
+  <h2
+    className="calculator-headline container"
+  >
+    Let's do some math!
+  </h2>
+  <div
+    className="calculator container"
+  >
+    <div
+      className="output"
+    >
+      <div
+        id="output"
+      >
+        0
+      </div>
+    </div>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="operator"
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="operator"
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className=""
+      id="5"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="operator"
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="operator"
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className=""
+      id="three-spanned"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className=""
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="operator"
+      id=""
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Render of the webpage Render Home component 1`] = `
+<section
+  className="section container"
+>
+  <h2
+    className="headline"
+  >
+    Welcome to our page!
+  </h2>
+  <div
+    className="section-text"
+  >
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus at eligendi explicabo asperiores similique molestiae totam assumenda doloribus, consectetur quod, quam officiis molestias tempore nemo, ad nisi quia provident expedita.
+    </p>
+  </div>
+  <div
+    className="section-text"
+  >
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga, voluptatibus distinctio repellendus asperiores maiores temporibus, harum provident qui dolores, error soluta tenetur hic labore modi consequuntur id quod nam repudiandae?
+    </p>
+  </div>
+</section>
+`;
+
+exports[`Render of the webpage Render Quote component 1`] = `
+<div
+  className="quote container"
+>
+  <p
+    className="quote-text-container"
+  >
+    Mathematics is not about numbers, equations, computations, or algorithms: it is about understanding. William Paul Thurston
+  </p>
+</div>
+`;

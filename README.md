@@ -160,6 +160,13 @@ To run the project, execute the following command:
 - LinkedIn: [Ameer Hamza](https://www.linkedin.com/in/choudhary-hamza-37b17a141/)
 
 
+👤 **emmanuella**
+
+- GitHub: [@elarhadu](https://github.com/elarhadu/)
+- Twitter: [@elarh_](https://twitter.com/elarh_)
+- LinkedIn: [Emmanuella Adu](https://www.linkedin.com/in/emmanuella-adu/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
